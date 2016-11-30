@@ -1,0 +1,76 @@
+#header{
+	width: 99%;
+	height: 173px;	
+	margin: 0 auto;
+}
+#article{
+	width: 99%;
+	margin: 0 auto;
+	
+}
+
+#footer{
+	width: 99%;
+	margin: 0 auto;
+}
+.menu{
+	width:99%;
+	margin: 0 auto;
+}
+/*Rodape*/
+.rodapeIcons{
+	height: 30px;
+	background: #1C1C1C;
+	border-radius: 5px;
+	margin-top: 1%;
+}
+.iconsRedeSociais{
+	height:74%; 
+	margin-top:4px; 
+	margin-right:3px; 
+	float:right;
+}
+.iconeLogo{
+	height: 74%;
+	margin-top: 4px;
+	margin-left: 3px;
+	float: left;
+}
+.direitosReservados{
+	text-align: center;
+	height: 30px;	
+}/*Rodape*/
+
+.brasao{
+	width: 165px;
+	margin-top: 8%;
+}
+.logo{	
+	margin-top: 8%;	
+	width: 217px;
+}
+.forumAluno{
+	margin-top: 20px;
+	width: 750px;
+	margin-left: 0%;
+}
+.buttonForum{
+	float: left;
+	margin-top: -3px;
+	margin-left: -4px;
+}
+.barraCadastroProfessor{
+	margin-top: -1%;
+	margin-left: 0%;
+}
+.cadastroInstituicao{
+	margin-left: 0%;
+	width: 750px;
+}
+.imgPerfil{
+	width: 140px;
+}
+label{
+	float: left;
+}
+
